@@ -1,0 +1,7 @@
+ if(curr==s)
+		        {
+		            end=i+1;
+		            start=start+1;
+		            System.out.println(start+" "+end);
+		            break;
+		        }
